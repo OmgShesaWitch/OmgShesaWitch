@@ -27,6 +27,7 @@ Currently learning and exploring:
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sql)
 
 ## Tools
 
@@ -35,5 +36,6 @@ Currently learning and exploring:
 ![Selenium](https://img.shields.io/badge/Selenium-111111?style=for-the-badge&logo=selenium)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 
 > What you know has no value. The real value lies in what you do with what you know.
