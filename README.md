@@ -37,5 +37,6 @@ Currently learning and exploring:
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 
 > What you know has no value. The real value lies in what you do with what you know.
